@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Dr.Fariza</string>
+    <string name="snackbar_format">Your contractions are about %s apart.</string>
+    <string name="snackbar_time_format_s">%1$dsec</string>
+    <string name="snackbar_time_format_h">%1$dh %2$dmin %3$dsec</string>
+    <string name="snackbar_time_format_m">%1$dmin %2$dsec</string>
+</resources>
